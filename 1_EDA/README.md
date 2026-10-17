@@ -33,3 +33,5 @@ SELECT
  ORDER BY optimal_score DESC
  LIMIT 25;
 ```
+
+**[MARKDOWN CHEAT SHEET](https://www.markdownguide.org/cheat-sheet/)**
